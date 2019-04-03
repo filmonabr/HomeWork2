@@ -33,9 +33,6 @@ h2 span{
 .my-first::first-letter {
     font-size: 40px;
 }
-p.my-first{
-    color: blue;
-}
 .impact{
     background-color: white;
     color: orangered;
