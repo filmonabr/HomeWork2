@@ -30,3 +30,21 @@ ol span{
 h2 span{
     color: white;
 }
+.my-first::first-letter {
+    font-size: 40px;
+}
+p.my-first{
+    color: blue;
+}
+.impact{
+    background-color: white;
+    color: orangered;
+    font-style: italic
+}
+
+.impact:hover{
+    /*font-size:14px;*/
+    font-size: 1.5em;
+    background-color: lightskyblue;
+    color:#FF00FF;
+}
