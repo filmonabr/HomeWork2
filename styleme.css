@@ -51,9 +51,6 @@ h2 span{
     color:	#800080;
 }
 
-li.nices{
-    color:	#800080;
-}
 li:hover .info{
     display: block;
     color:rgb(67, 255, 20);
