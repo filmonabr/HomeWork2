@@ -47,9 +47,6 @@ h2 span{
     background-color: lightskyblue;
     color:#FF00FF;
 }
-.lists, .nices{
-    color:	#800080;
-}
 
 li:hover .info{
     display: block;
