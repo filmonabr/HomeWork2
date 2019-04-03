@@ -54,7 +54,7 @@ h2 span{
 li.nices{
     color:	#800080;
 }
-.heads li:hover .info{
+li:hover .info{
     display: block;
     color:#FF1493;
 }
